@@ -3,7 +3,9 @@
 + 例子：《 As You Like It 》－ William Shakespeare
 
 > All the world's a stage
+
 > And all the men and women merely players
+
 > They have their exits and their entrances
 
 这里莎翁建立了「世界和舞台」，「男人，女人和演员」两对隐喻连结，准确地传达了世界和人的行为之间的关系。
