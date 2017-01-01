@@ -12,8 +12,8 @@
 
 ## 命名规则
 
-分类－时间－主题
+time-category-title
 
 例如
 
-cT-2016-12-25-feeling-of-knowing
+2016-12-25-cT-feeling-of-knowing
