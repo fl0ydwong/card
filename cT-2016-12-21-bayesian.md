@@ -4,10 +4,15 @@
 + 公式：![image](https://cloud.githubusercontent.com/assets/10328076/21518477/afe5c992-cd21-11e6-9388-a7244fe760a2.png)
 + 拓展：贝叶斯解释（Bayesian interpretation），事实证据对事件概率「信念程度」的影响。
 + 例子：我们通过一些事实估计「薛定谔在1935年"虐猫"」这件事的真假，定义参数 θ 
+
         θ = 1 ，虐猫；θ = 0，没虐猫。
+
         「频率派」认为薛定谔有没有曾经在这个时刻“虐猫”是事实，θ取值是0，或者1的固定数，不能说 “θ = 1” 的概率是 XX% 
+
         而「贝叶斯派」则认为，可以说“θ = 1” 是 30% ，而且随着样本增多，我们可以把这个概率加以变化，得到 ![image](https://cloud.githubusercontent.com/assets/10328076/21518356/e021d476-cd20-11e6-8a92-0316bdc20a1f.png)的分布。这个概率就是「信念」的含义。
+
         「频率派」和 「贝叶斯派」代表两种不同的真理观。「频率派」认为本体（参数）存在且固定，只不过我们看不到罢了，参数角色类似于柏拉图的“理念”。
+
         「贝叶斯派」则认为，只要没有被我们感知的东西都可以是随机的，感知的了新的表象（观测数据）只是增加对不可知事物（参数）的信念，使得![image](https://cloud.githubusercontent.com/assets/10328076/21518361/e6dfc8c2-cd20-11e6-9379-fa2ec46cdde8.png)比θ更加集中。这类似于康德的「不可知论」。
 
 + 出处：[wiki_Bayesian_theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)
