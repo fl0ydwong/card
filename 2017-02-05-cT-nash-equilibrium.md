@@ -5,6 +5,6 @@
 + 思考：联想到《你一生的故事》中提到的“费马原理”引出七肢桶的“目的论”式的思考模式。
   按照“目的论”的方式来解释的话就是，为了使一次博弈达到纳什均衡状态，参与者们总是会采取可以产生纳什均衡状态的策略。
 
-感觉非常的有意思。
+  感觉非常的有意思。
 
 + 出处：[wiki_nash_equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium)，[百度百科](http://baike.baidu.com/link?url=ArncR9pyeHglN4hvAsXB9SrAgIZKeoHuB3xrp2o3HXY6es5ApPqj5flZ2-sIp9v8ZccWlntrIhYrcBUByyB2ZCLsNaLPfm7MDhzEddEcpqfmhHkezzWQP20rdPYitGOZ)
