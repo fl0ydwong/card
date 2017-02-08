@@ -6,7 +6,7 @@
 - cQ(Quote) 金句卡
 - cA(Anti-common-sense) 反常识卡
 - cF(Figure) 人物卡
-- cK(Skill) 技巧卡
+- cS(Skill) 技巧卡
 - cH(Handle) 行动卡
 - cL(Liberty) 任意卡
 
