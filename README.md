@@ -9,7 +9,7 @@
 - cS(Skill) 技巧卡
 - cH(Handle) 行动卡
 - cL(Liberty) 任意卡
-- cR(Record) 纪录卡
+- cR(Record) 记录卡
 
 ## 命名规则
 
