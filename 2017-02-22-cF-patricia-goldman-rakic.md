@@ -9,6 +9,6 @@
   以及诸如“ADHD”，“阿尔兹海默症”，“帕金森症”等由脑功能病变引发的疾病。
   她的一项研究表明，“多巴胺”和前额皮质功能具有重要的相关性。
   
-  戈德曼教授在一次车祸中不幸去世。
+  2003年，戈德曼教授在一次车祸中不幸去世。
 
 + 出处：[wiki_patricia_goldman_rakic](https://en.wikipedia.org/wiki/Patricia_Goldman-Rakic)
