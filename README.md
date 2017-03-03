@@ -10,7 +10,7 @@
 - cH(Handle) 行动卡
 - cL(Liberty) 任意卡
 - cR(Record) 记录卡
-- cE(Evidence) 证据卡
+- cE(Excerpt) 摘录卡
 
 ## 命名规则
 
