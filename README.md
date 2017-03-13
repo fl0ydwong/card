@@ -12,6 +12,7 @@
 - cR(Record) 记录卡
 - cE(Excerpt) 摘录卡
 - cP(Practice) 练习卡
+- cI(Idea) 脑洞卡
 
 ## 命名规则
 
