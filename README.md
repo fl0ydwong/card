@@ -11,6 +11,7 @@
 - cL(Liberty) 任意卡
 - cR(Record) 记录卡
 - cE(Excerpt) 摘录卡
+- cP(Practice) 练习卡
 
 ## 命名规则
 
